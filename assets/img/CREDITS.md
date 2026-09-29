@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — cottonbro studio
+- rooms/care.jpg — Jsme  MILA
+- rooms/joy.jpg — Mendez
+- rooms/room.jpg — Ron Lach
+- rooms/med.jpg — Stéf -b.
+- rooms/activity.jpg — ANTONI SHKRABA production
+- rooms/meal.jpg — pg j
+- infra/garden.jpg — JUNIOR FOSSILE
+- infra/hands.jpg — cottonbro studio
+- infra/doc.jpg — https://kaboompics.com/
